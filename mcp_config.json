@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "python-cheatsheet": {
+      "command": "python",
+      "args": ["run_mcp_server.py"],
+      "cwd": ".",
+      "description": "Comprehensive Python Cheatsheet MCP server — search concepts, get code examples, and more."
+    }
+  }
+}

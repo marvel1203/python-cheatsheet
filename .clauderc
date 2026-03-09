@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "python-cheatsheet": {
+      "command": "python",
+      "args": ["/ABSOLUTE/PATH/TO/python-cheatsheet/run_mcp_server.py"],
+      "description": "Comprehensive Python Cheatsheet MCP server"
+    }
+  }
+}
